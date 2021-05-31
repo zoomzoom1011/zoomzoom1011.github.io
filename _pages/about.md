@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+A data-driven personal website
+======
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. 
 
 
