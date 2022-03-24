@@ -49,7 +49,7 @@ redirect_from:
   * Performed analysis on Click-Through data and built an auto-encoder-decoder in Python to predict Click-Through rate.
   * Preprocessed data by removing missing values, data exploration and splitting data into train and test datasets on Spark.
   * Built and trained a wide and deep learning model with hidden layers and embedding layers.
-  * Evaluated three models(DeepFM, wide and deep, xDeepFM) based on its performance on test datasets(best AUC 0.73).Semantic analysis for YouTube user comments dataset
+  * Evaluated models(DeepFM, wide and deep) based on its performance on test datasets(best AUC 0.73).Semantic analysis for YouTube user comments dataset
 
 * Natural Language Processing and Topic Modeling on User Review Dataset
 
