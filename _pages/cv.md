@@ -37,12 +37,11 @@ Work experience
 
 * Research Assistant
   * Jun.2016 - Aug.2020
-  * Temple University
-  * Philadelphia.PA
-          
-  * Worked in Dr.Frank Spano lab and studied light–matter interaction from spectral data, 
-  * Tried to understand the insight of molecule aggregate and publish four high impact papers.
-  * Utilized Sparse matrix technique and CPU/GPU parallel computation to boost computation speed up to 3 times faster.
+  * Temple University in Philadelphia.PA
+  * Duties included: 
+    * Worked in Dr.Frank Spano lab and studied light–matter interaction from spectral data, 
+    * Tried to understand the insight of molecule aggregate and publish four high impact papers.
+    * Utilized Sparse matrix technique and CPU/GPU parallel computation to boost computation speed up to 3 times faster.
 
 
 Skills
