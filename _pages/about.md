@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chuwei(Zoom) Zhong Brief Introduction"
+title: "Chuwei Zhong Brief Introduction"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
