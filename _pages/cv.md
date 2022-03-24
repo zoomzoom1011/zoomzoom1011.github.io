@@ -18,10 +18,13 @@ Ph.D. of Science in Computational Chemistry
 GPA: 3.84/4.00
 Subjects and fields of Study: Scientific Computation, High Performance Computing, Parallel Computing
 
-Xiamen University Xiamen, China                         
-Sep.2011 - Jun.2014
-Master of Engineering                                 
+M.E. in Xiamen University 
+field: "Physics"
+location: "Xiamen, China"                         
+date: Sep.2011 - Jun.2014                             
 GPA: 3.59/4.00
+
+
 
 Work experience
 ======
