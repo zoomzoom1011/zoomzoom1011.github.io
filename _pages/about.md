@@ -17,6 +17,12 @@ solid programming skills in Python and SQL
 Education
 ======
 
+Temple University Philadelphia, PA                      Sep.2015 - Aug.2020
+Ph.D. of Science in Computational Chemistry             GPA: 3.84/4.00
+Subjects and fields of Study: Scientific Computation, High Performance Computing, Parallel Computing
+
+Xiamen University Xiamen, China                         Sep.2011 - Jun.2014}
+Master of Engineering                                 GPA: 3.59/4.00
 
 
 Skills
