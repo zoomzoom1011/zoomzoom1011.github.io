@@ -1,4 +1,14 @@
-Projects
+---
+layout: archive
+title: "Projects"
+permalink: /Projects/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
 ======
 * Natural Language Processing and Topic Modeling on User Review Dataset
 
