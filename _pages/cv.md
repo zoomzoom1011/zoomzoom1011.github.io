@@ -30,7 +30,7 @@ Work experience
   * Oct.2020 - Sep.2021
   * The Wistar Institute, University of Pennsylvania
   * Philadelphia.PA
-
+          
   * Cleaned and analyzed RNA-seq data to extract gene expression insight by R statistical package
   * Developed and optimized analysis pipeline for different sequencing libraries
   * Helped maintain computational resources in the lab
@@ -40,7 +40,7 @@ Work experience
   * Jun.2016 - Aug.2020
   * Temple University
   * Philadelphia.PA
-
+          
   * Worked in Dr.Frank Spano lab and studied light–matter interaction from spectral data, 
   * Tried to understand the insight of molecule aggregate and publish four high impact papers.
   * Utilized Sparse matrix technique and CPU/GPU parallel computation to boost computation speed up to 3 times faster.
