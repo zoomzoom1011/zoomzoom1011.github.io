@@ -27,7 +27,7 @@ Master of Engineering                                 GPA: 3.59/4.00
 
 Skills
 ======
-**Programming:
+***Programming***:
 
 Python (Sklearn, Pandas, NumPy, TensorFlow, PyTorch), R, SQL, Tableau, Spark, C++, Fortran 
 
