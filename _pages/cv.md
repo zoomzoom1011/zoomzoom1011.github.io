@@ -11,6 +11,11 @@ redirect_from:
 
 Education
 ======
+* Ph.D. of Science in Computational Chemistry, Temple University, Philadelphia, PA, Sep.2015 - Aug.2020, GPA: 3.84/4.00 
+Subjects and fields of Study: Scientific Computation, High Performance Computing, Parallel Computing
+
+* Master of Engineering, Xiamen University, Xiamen, China, Sep.2011 - Jun.2014, GPA: 3.59/4.00
+
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
