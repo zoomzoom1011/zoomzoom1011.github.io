@@ -10,9 +10,7 @@ redirect_from:
 
 Summary
 ======
-A Ph.D. who aims at finding data career opportunities with sufficient project experience in data analytics,
-data visualization, big data and machine learning. Strong knowledge of statistics, data analytics, and
-solid programming skills in Python and SQL
+A Ph.D. who aims at finding data career opportunities with sufficient project experience in ***data visualization, big data and machine learning***. Strong knowledge of statistics, data analytics, and solid programming skills in ***Python and SQL***
 
 Education
 ======
