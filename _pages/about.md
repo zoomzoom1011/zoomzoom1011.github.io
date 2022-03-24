@@ -38,3 +38,45 @@ Skills
 **Statistics Analysis:** Experimental Design, Hypothesis Testing, A/B Testing, Text Mining, Time Series Analysis, Exploratory Data Analysis
 
 **Other:** Docker, Slurm
+
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+
+* Programming: 
+  * Python (Sklearn, Pandas, NumPy, TensorFlow, PyTorch)
+  * R
+  * SQL
+  * Tableau
+  * Spark
+  * C++
+  * Fortran
+
+* Machine Learning: 
+  * Classical & Penalized Regression Methods (Lasso, Ridge)
+  * K Nearest Neighbors
+  * K-means
+  * Principal Component Analysis (PCA)
+  * Feature Engineering
+  * Model Evaluation
+  * Deep Learning
+  * Latent Dirichlet Allocation (LDA)
+  * Ensemble Learning
+  * Image Processing
+
+* Statistics Analysis: 
+  * Experimental Design
+  * Hypothesis Testing
+  * A/B Testing
+  * Text Mining
+  * Time Series Analysis
+  * Exploratory Data Analysis
+
+* Other: 
+  * Docker
+  * Slurm
