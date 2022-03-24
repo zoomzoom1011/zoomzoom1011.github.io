@@ -1,59 +1,49 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
+Projects
+======
+* Natural Language Processing and Topic Modeling on User Review Dataset
 
-{% include base_path %}
+  * Clustered customer reviews into groups and discovered the latent semantic structures using Python
+  * Preprocessed review text by tokenization, stemming, removing stop words and extracted features by Term frequency - Inverse
+  * Document Frequency (TFlDF).
+  * Trained unsupervised learning models of K-means clustering and Latent Dirichlet Analysis.
+  * Identified latent topics and keywords of each review for clustering.
+  * Visualized model training results by dimensionality reduction using Principal Component Analysis (PCA)
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Amazon Prime Video View Time Exploration and Prediction
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Worked on Amazon Prime data set and built a forecast model in Python to predict video view time.
+  * Performed exploratory data analysis and preprocessed raw sales and product data via dealing with handling values, categorical feature encoding and feature scaling.
+  * Built linear regression, random forest and XGBoost and evaluated the models through multiple metrics.
+  * Selected the best model based on RMSE (best:8571) and identified the key factors (video position) for view time performance.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
+* Philadelphia Crime Analysis in Apache Spark
+
+  * Performed spatial and time series analysis for a 6-year dataset of reported incidents from Philadelphia government website.
+  * Build data processing pipeline based on Dataframe and Spark SQL for big data OLAP.
+  * Trained and fine-tuned an ARIMA model to forecast the number of incidents (MSE:4199).
+  * Explored and visualized the variation of the spatial distribution of incidents over time.
+
+
+* Movie Recommendation Engine Development in Apache Spark
+
+  * Built data ETL pipeline to analyze movie rating dataset and conducted online analytical processing with Spark SQL.
+  * Implemented Alternative Least Square model to provide personalized movie recommendations and developed user-based approaches to handle system cold-start problems.
+  * Conducted model hyper-parameters tuning with Spark ML cross-evaluation toolbox and monitored data processing performance via Spark UI on Databricks.(test RMSE: 0.87)
+
+
+* Financial Anomaly Detection and Risk Analysis
+
+  * Developed supervised and unsupervised(Isolation Forest and Distribution based) models in Python to predict loan risks.
+  * Performed exploratory data analysis on large transaction dataset and preprocessed data by removing duplicates, encoding categorical features and handling imbalanced labeled data by SMOTE and Near Miss.
+  * Selected the best sampling method based on recall score (best 0.99).
+
+
+* Auto-Encoder-Decoder and Embedding Framework in Click Prediction
+
+  * Performed analysis on Click-Through data and built an auto-encoder-decoder in Python to predict Click-Through rate.
+  * Preprocessed data by removing missing values, data exploration and splitting data into train and test datasets on Spark.
+  * Built and trained a wide and deep learning model with hidden layers and embedding layers.
+  * Evaluated three models(DeepFM, wide and deep, xDeepFM) based on its performance on test datasets(best AUC 0.73).Semantic analysis for YouTube user comments dataset
