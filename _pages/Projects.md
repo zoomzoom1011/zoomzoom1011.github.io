@@ -10,14 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ======
-* Natural Language Processing and Topic Modeling on User Review Dataset
 
-  * Clustered customer reviews into groups and discovered the latent semantic structures using Python
-  * Preprocessed review text by tokenization, stemming, removing stop words and extracted features by Term frequency - Inverse
-  * Document Frequency (TFlDF).
-  * Trained unsupervised learning models of K-means clustering and Latent Dirichlet Analysis.
-  * Identified latent topics and keywords of each review for clustering.
-  * Visualized model training results by dimensionality reduction using Principal Component Analysis (PCA)
 
 
 * Amazon Prime Video View Time Exploration and Prediction
@@ -57,3 +50,18 @@ redirect_from:
   * Preprocessed data by removing missing values, data exploration and splitting data into train and test datasets on Spark.
   * Built and trained a wide and deep learning model with hidden layers and embedding layers.
   * Evaluated three models(DeepFM, wide and deep, xDeepFM) based on its performance on test datasets(best AUC 0.73).Semantic analysis for YouTube user comments dataset
+
+* Natural Language Processing and Topic Modeling on User Review Dataset
+
+  * Clustered customer reviews into groups and discovered the latent semantic structures using Python
+  * Preprocessed review text by tokenization, stemming, removing stop words and extracted features by Term frequency - Inverse
+  * Document Frequency (TFlDF).
+  * Trained unsupervised learning models of K-means clustering and Latent Dirichlet Analysis.
+  * Identified latent topics and keywords of each review for clustering.
+  * Visualized model training results by dimensionality reduction using Principal Component Analysis (PCA)
+
+
+* Stanford Car Classification
+  * Trained AlexNet, VGGNet and ResNet models for transfer learning and tuned hyper parameters and selected the best model. 
+  * Tried different transformation and data augmentation for better performance.
+  * Evaluated the model by test dataset accuracy and single images. 
