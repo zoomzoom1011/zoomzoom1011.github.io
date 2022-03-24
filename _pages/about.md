@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chuwei(Zoom) brief introduction"
+title: "Chuwei(Zoom) Zhong Brief Introduction"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -21,13 +21,17 @@ Education
 
 Skills
 ======
-Programming:Python (Sklearn, Pandas, NumPy, TensorFlow, PyTorch), R, SQL, Tableau, Spark, C++, Fortran 
+Programming:
+Python (Sklearn, Pandas, NumPy, TensorFlow, PyTorch), R, SQL, Tableau, Spark, C++, Fortran 
 
-Machine Learning:Classical & Penalized Regression Methods (Lasso, Ridge), K Nearest Neighbors, K-means, Principal Component Analysis (PCA), Feature Engineering, Model Evaluation, Deep Learning, Latent Dirichlet Allocation (LDA), Ensemble Learning, Image Processing
+Machine Learning:
+Classical & Penalized Regression Methods (Lasso, Ridge), K Nearest Neighbors, K-means, Principal Component Analysis (PCA), Feature Engineering, Model Evaluation, Deep Learning, Latent Dirichlet Allocation (LDA), Ensemble Learning, Image Processing
 
-Statistics Analysis:} {Experimental Design, Hypothesis Testing, A/B Testing, Text Mining, Time Series Analysis, Exploratory Data Analysis
+Statistics Analysis:
+Experimental Design, Hypothesis Testing, A/B Testing, Text Mining, Time Series Analysis, Exploratory Data Analysis
 
-Other:Docker, Slurm
+Other:
+Docker, Slurm
 
 
 Site-wide configuration
