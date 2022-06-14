@@ -78,5 +78,6 @@ Skills
   * Exploratory Data Analysis
 
 * ***Other:***
+  * Amazon Web Services(AWS): S3, RDS, Lambda, DynamoDB, EC2
   * Docker
   * Slurm
