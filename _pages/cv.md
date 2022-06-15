@@ -34,7 +34,7 @@ Work experience
     * Cleaned and analyzed RNA-seq data to extract gene expression insight by R statistical package
     * Developed and optimized analysis pipeline for different sequencing libraries
     * Helped maintain computational resources in the lab
-    * Improved the single-cell data process efficiency by 500\% using parallel computing
+    * Improved the single-cell data process efficiency by 500% using parallel computing
 
 * Research Assistant
   * Jun.2016 - Aug.2020
