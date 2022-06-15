@@ -11,7 +11,12 @@ redirect_from:
 
 ======
 
-
+* Recommendation System Based on YouTube Review
+  * Built a machine learning model in Spark to classify users based on their comments to YouTube videos
+  * Preprocessed data by removing missing values and labeled part of users based on their comments
+  * Processed user comments via RegexTokenizer and Word2Vec in SparkML
+  * Trained logistic regression and random forest models and tuned hyper parameters and selected the best model based on k-cross validation
+  * Extracted features with term frequency approach to obtain important topics of target users
 
 * Amazon Prime Video View Time Exploration and Prediction
 
